@@ -1,0 +1,22 @@
+---
+- name: "John"
+  surname: "Doe"
+  age: 25
+  sport: "Sprinter"
+  origin:
+    country: "USA"
+    city: "New York"
+- name: "Jane"
+  surname: "Smith"
+  age: 31
+  sport: null
+  origin:
+    country: "Kenya"
+    city: "Nairobi"
+- name: "Mike"
+  surname: "Johnson"
+  age: 22
+  sport: "Jumper"
+  origin:
+    country: "Great Britain"
+    city: "London"
